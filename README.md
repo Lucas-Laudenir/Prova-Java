@@ -102,8 +102,8 @@ Após a aplicação estar em execução, você pode acessar a documentação int
 
 # Integrantes
 # João Lucas Pereira Françoso Mazetti RA 23268463-2
-# Lucas Laudenir Mendes Filpim RA 23232880-2
-# Letícia Satiko Takahashi RA 23028128-2
-# Matheus Decol da Silva Dantas RA 23044165-2
-# Matheus Gustavo Marques de Pádua RA 23288796-2
-# Pedro Henrique Ribeiro Custódio RA 23298456-2
+# Lucas Laudenir Mendes Filpim        RA 23232880-2
+# Letícia Satiko Takahashi            RA 23028128-2
+# Matheus Decol da Silva Dantas       RA 23044165-2
+# Matheus Gustavo Marques de Pádua    RA 23288796-2
+# Pedro Henrique Ribeiro Custódio     RA 23298456-2
