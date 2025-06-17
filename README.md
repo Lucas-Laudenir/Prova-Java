@@ -99,3 +99,11 @@ Após a aplicação estar em execução, você pode acessar a documentação int
     * Cole o token no campo `Value` no formato `Bearer SEU_TOKEN_AQUI` (substituindo `SEU_TOKEN_AQUI` pelo token real).
     * Clique em "Authorize" e depois em "Close".
     * Agora, você pode testar endpoints protegidos, como `GET /api/test/user` ou `GET /api/test/admin` (se seu usuário tiver a role `ADMIN`), e deverá receber o "Conteúdo de Usuário." ou "Conteúdo de Administrador."
+
+# Integrantes
+# João Lucas Pereira Françoso Mazetti RA 23268463-2
+# Lucas Laudenir Mendes Filpim RA 23232880-2
+# Letícia Satiko Takahashi RA 23028128-2
+# Matheus Decol da Silva Dantas RA 23044165-2
+# Matheus Gustavo Marques de Pádua RA 23288796-2
+# Pedro Henrique Ribeiro Custódio RA 23298456-2
